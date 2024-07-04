@@ -38,7 +38,7 @@ const Portfolio = () => {
           <h2 className={title}>Note App</h2>
           <div className={desp}>
             <p className={text}>
-              An applicatioon that allows an organazation to keep track of its daily activities
+              An applicatioon that allows an organization to keep track of its daily activities
             </p>
           </div>
           <ul className={list}>
