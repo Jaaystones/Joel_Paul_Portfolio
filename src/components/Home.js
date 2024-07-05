@@ -37,8 +37,8 @@ const Home = () => {
               Nigeria.
             </div>
             <button className="btn md:w-[120px]">
-              <a href="mailto:nwene.samuel@gmail.com" target="_blank">
-                Welcome
+              <a href="mailto:Joelpaul345@gmail.com" target="_blank">
+                Send a Mail
               </a>
             </button>
           </div>

@@ -14,7 +14,7 @@ const Nav = () => {
       <nav className="w-full bg-[#000] flex fixed items-center justify-between p-5 pl-10 pr-[150px] lg:pr-[20px]">
         <Link to="/">
           <img
-            src="./images/sam.png"
+            src="./images/logo.jpg"
             alt="logo"
             className="w-[100px] ml-[50px] md:ml-[-20px]"
           />

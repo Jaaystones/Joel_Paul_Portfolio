@@ -38,7 +38,7 @@ const Portfolio = () => {
           <h2 className={title}>Note App</h2>
           <div className={desp}>
             <p className={text}>
-              An applicatioon that allows an organization to keep track of its daily activities
+              An application that allows an organization to keep track of its daily activities
             </p>
           </div>
           <ul className={list}>
@@ -100,7 +100,7 @@ const Portfolio = () => {
           <h2 className={title}>Inventory API</h2>
           <div className={desp}>
             <p className={text}>
-              An E-commerce Api for the Next generation Shoping experience
+              An E-commerce Api for the Next generation shopping experience
             </p>
           </div>
           <ul className={list}>
@@ -162,11 +162,11 @@ const Portfolio = () => {
           <h2 className={title}>Members Only</h2>
           <div className={desp}>
             <p className={text}>
-              A clone of the Members only 
+              A clone of the Members only app 
             </p>
           </div>
           <ul className={list}>
-            <li className="pl-[10px]">React</li>
+            <li className="pl-[10px]">Ruby-on-rails</li>
             <li className="pl-[10px]">Tailwindcss</li>
             <li className="pl-[10px]">Restful API</li>
           </ul>
